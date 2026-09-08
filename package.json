@@ -1,0 +1,12 @@
+{
+  "name": "codealpha-azure-cicd-app",
+  "version": "1.0.0",
+  "description": "Sample app for CodeAlpha DevOps Task 1 - Azure CI/CD Pipeline",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
